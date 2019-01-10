@@ -1,1 +1,1 @@
-Mars looks red and there is water on it.
+Mars looks red and there is no water on it.
